@@ -6,7 +6,7 @@
 
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-image: url('images/man-looking-up.jpg');
+  background-image: url('/images/man-looking-up.jpg');
   background-size: cover;
   background-position: top center;
 }
